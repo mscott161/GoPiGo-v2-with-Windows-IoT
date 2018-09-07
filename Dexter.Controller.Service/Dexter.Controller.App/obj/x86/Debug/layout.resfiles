@@ -1,0 +1,17 @@
+WinMetadata\Windows.winmd
+Assets\LockScreenLogo.scale-200.png
+Assets\SplashScreen.scale-200.png
+Assets\Square150x150Logo.scale-200.png
+Assets\Square44x44Logo.scale-200.png
+Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+Assets\StoreLogo.png
+Assets\Wide310x150Logo.scale-200.png
+Dexter.Controller.App.xr.xml
+Html\Index.html
+JavaScript\Camera.js
+JavaScript\Controls.js
+JavaScript\Fullscreen.js
+JavaScript\VideoSetting.js
+JavaScript\WebSocketHelper.js
+Properties\Default.rd.xml
+Styles\Index.css

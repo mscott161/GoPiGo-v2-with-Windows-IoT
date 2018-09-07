@@ -1,0 +1,3 @@
+C:\Users\mscot\Documents\GoPiGo-v2-with-Windows-IoT\Dexter.Controller.Service\Dexter.Controller.App\Dexter.Controller.App.csproj;x86
+C:\Users\mscot\Documents\GoPiGo-v2-with-Windows-IoT\Dexter.Controller.Service\Dexter.GoPiGo\Dexter.GoPiGo.csproj;x86
+C:\Users\mscot\Documents\GoPiGo-v2-with-Windows-IoT\Dexter.Controller.Service\Windows.IoT.ServerService\Windows.IoT.ServerService.csproj;x86
